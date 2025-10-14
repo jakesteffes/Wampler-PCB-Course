@@ -1,0 +1,16 @@
+v1.0.1 (2025-08-11)
+- Symbols: added Pad
+- Packages: added PAD_1.6MM, PAD_4MM
+
+v1.0.2 (2025-10-14)
+- Symbols:
+	- JACK_TRS
+	- R_POTENTIOMETER
+	- R_POTENTIOMETER_DUAL
+	- TL074
+- Packages:
+	- CAP_MLCC_100NF
+	- JACK_NMJ6HCD2
+	- OP_AMP_QUAD
+	- POT_9MM_RA_DUAL
+	- POT_16MM_RA_DUAL

@@ -1,0 +1,3 @@
+v1.0.1 (2025-08-11)
+- Schematic: changed mechanical pad symbols from Mechanical Library to Wampler::Pad
+- Board: changed mechanical pad footprints to Wampler::PAD_4MM, to resolve thermal relief issue
