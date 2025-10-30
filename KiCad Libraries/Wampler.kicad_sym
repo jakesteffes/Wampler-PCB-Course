@@ -763,14 +763,14 @@
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
-				(name "12"
+				(name "14"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "12"
+				(number "14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -799,14 +799,14 @@
 			(pin passive line
 				(at 0 -5.08 90)
 				(length 2.54)
-				(name "14"
+				(name "12"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "14"
+				(number "12"
 					(effects
 						(font
 							(size 1.27 1.27)
